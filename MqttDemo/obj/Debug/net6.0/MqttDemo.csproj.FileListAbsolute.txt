@@ -1,0 +1,16 @@
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MqttDemo.exe
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MqttDemo.deps.json
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MqttDemo.runtimeconfig.json
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MqttDemo.dll
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\ref\MqttDemo.dll
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MqttDemo.pdb
+C:\Study\baron-repository\MqttDemo\MqttDemo\bin\Debug\net6.0\MQTTnet.dll
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.AssemblyInfoInputs.cache
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.AssemblyInfo.cs
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.csproj.CoreCompileInputs.cache
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.csproj.CopyComplete
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.dll
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\ref\MqttDemo.dll
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.pdb
+C:\Study\baron-repository\MqttDemo\MqttDemo\obj\Debug\net6.0\MqttDemo.genruntimeconfig.cache

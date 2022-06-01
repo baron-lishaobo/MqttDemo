@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2oCt5O4+8H/SL3ehhJSScaZH/1c47Iyg/yI65iKH5p2wICaa6T+vc/2Ou4nWkJCfhtyomBWRxKDeWk2oI8pEw==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\baron-repository\\MqttDemo\\MqttDemo\\MqttDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baron\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

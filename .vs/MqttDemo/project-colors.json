@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39e4e6eb-1038-4f75-a9aa-a4741c8381ad": {
+      "ProjectGuid": "39e4e6eb-1038-4f75-a9aa-a4741c8381ad",
+      "DisplayName": "MqttDemo",
+      "ColorIndex": 0
+    },
+    "8257a7c6-ee40-4d97-806a-e94ff82de7d8": {
+      "ProjectGuid": "8257a7c6-ee40-4d97-806a-e94ff82de7d8",
+      "DisplayName": "MqttDemoClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
